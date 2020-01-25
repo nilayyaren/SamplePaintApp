@@ -1,0 +1,10 @@
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\bin\Debug\SamplePaintApp.exe.config
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\bin\Debug\SamplePaintApp.exe
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\bin\Debug\SamplePaintApp.pdb
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\obj\Debug\SamplePaintApp.csprojAssemblyReference.cache
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\obj\Debug\SamplePaintApp.Form1.resources
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\obj\Debug\SamplePaintApp.Properties.Resources.resources
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\obj\Debug\SamplePaintApp.csproj.GenerateResource.cache
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\obj\Debug\SamplePaintApp.csproj.CoreCompileInputs.cache
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\obj\Debug\SamplePaintApp.exe
+C:\Users\Niloş\source\repos\SamplePaintApp\SamplePaintApp\obj\Debug\SamplePaintApp.pdb
